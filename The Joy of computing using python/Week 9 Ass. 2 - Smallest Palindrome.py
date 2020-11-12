@@ -48,7 +48,7 @@ def small_pal(str):
         if pos == -1:
             break
         else:
-            if revStr[pos] == '.' and str != revStr:
+            if revStr[pos] == '.' and str != revStr and pos == len(str)/2 + 1:
                 break
             else:
                 if revStr[pos] == '.':
