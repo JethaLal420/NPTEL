@@ -1,25 +1,25 @@
 # # The Joy of Computing using Python Week 12 (04 Dec 2020)
 
 
-Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalised.
+# Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalised.
 
-Input Format:
-The first line of the input contains a number n which represents the number of line.
-From second line there are statements which has to be converted. Each statement comes in a new line.
+# Input Format:
+# The first line of the input contains a number n which represents the number of line.
+# From second line there are statements which has to be converted. Each statement comes in a new line.
 
-Output Format:
-Print statements with each word in capital letters.
+# Output Format:
+# Print statements with each word in capital letters.
 
-Example:
+# Example:
 
-Input:
-2
-Hello world
-Practice makes perfect
+# Input:
+# 2
+# Hello world
+# Practice makes perfect
 
-Output:
-HELLO WORLD
-PRACTICE MAKES PERFECT
+# Output:
+# HELLO WORLD
+# PRACTICE MAKES PERFECT
 
 
 
