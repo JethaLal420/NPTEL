@@ -1,7 +1,10 @@
 ## December 13 Programming test - Session 1 (10AM to 11AM) (2020)
 
 
-# Nandini has a complex matrix script. The matrix script is a N X M grid of strings. It consists of alphanumeric characters and symbols (!,@,#,$,%,&). To decode the script, Nandini needs to read each column and select only the alphanumeric characters and connect them. She reads the column from top to bottom and starts reading from the leftmost column. If there are symbols in the decoded script, then Nandini removes them for better readability. Alphanumeric characters consist of: [A-Z, a-z, and 0-9].
+# Nandini has a complex matrix script. The matrix script is a N X M grid of strings. It consists of alphanumeric characters and symbols (!,@,#,$,%,&). 
+#     To decode the script, Nandini needs to read each column and select only the alphanumeric characters and connect them. She reads the column from top to bottom and 
+#     starts reading from the leftmost column. If there are symbols in the decoded script, then Nandini removes them for better readability. Alphanumeric characters 
+#     consist of: [A-Z, a-z, and 0-9].
 
 # Input Format
 
